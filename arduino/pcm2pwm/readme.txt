@@ -1,0 +1,1 @@
+- converts PCM signal on Channel 3 and Channel 1 on PCM1024 and spits out PWM DC equivalent
