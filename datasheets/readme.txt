@@ -7,3 +7,7 @@ Drill guide showing holes (see DXF file)
 
 Hennkwell DC Gearmotor:
 torque data curves and motor data (current/voltage)
+
+Arduino Uno R3:
+dxf file of sizing
+schematic
